@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'Pacifico', cursive;
+}
+
+#bottle,#phone,#doll,#book,#toy
+{
+color:hsl(246, 100%, 50%);
+font-size: 25px;
+font-family: 'Redressed', cursive;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
